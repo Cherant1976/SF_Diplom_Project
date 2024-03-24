@@ -1,7 +1,7 @@
 # <center> Дипломный проект программы Data Science платформы [Skillfactory](http://skillfactory.ru)<br>Бриф «Лаборатории исследований гражданского общества».<br>Определение уязвимых групп населения</center>
 
 ## Оглавление  
-[1. Задачи дипломного проекта](https://github.com/Cherant1976/SF_Diplom_Project#Задачи-дипломного-проекта)   
+[1. Задача дипломного проекта](https://github.com/Cherant1976/SF_Diplom_Project#Задача-дипломного-проекта)   
 [2. Краткая информация о данных](https://github.com/Cherant1976/SF_Diplom_Project#Краткая-информация-о-данных)  
 [3. Этапы выполнения заданий учебного проекта](https://github.com/Cherant1976/SF_Diplom_Project#Этапы-выполнения-дипломного-проекта)  
 
