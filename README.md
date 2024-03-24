@@ -30,4 +30,4 @@
 - Аналитическая обработка кластеризации
 
 
-:arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Diplom_Projectt#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Diplom_Project#Оглавление)
